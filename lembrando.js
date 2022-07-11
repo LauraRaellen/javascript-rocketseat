@@ -46,7 +46,7 @@ let student = {
 
     name: "Laura",
     age: 13,
-    stars: 4.3,
+    stars: 4.3, 
     isSubscribed: true, 
     weight: 4.8
 }
