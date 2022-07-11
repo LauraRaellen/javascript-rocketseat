@@ -1,3 +1,5 @@
+
+
 // const sum = (num1, num2) => {
 //     console.log(num1 * num2); 
 //     console.log(num1 + num2);
@@ -24,3 +26,13 @@ sayMyName(
 //---------------------------------------------------------------------------------------------
 
 /* Function contructor */
+
+/**
+
+ function Person(name) {
+    this.name = name
+ }
+
+ const laura = new Person('Laura')
+ console.log(laura)
+ */
