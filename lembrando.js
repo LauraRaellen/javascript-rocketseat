@@ -27,10 +27,10 @@
 
 // 3. Declare uma variável e atribua valores para cada um dos dados:
 
-let name = "Laura";
-let age = 13;
-let stars = 4.3;
-let isSubscribed = true;
+// let name = "Laura";
+// let age = 13;
+// let stars = 4.3;
+// let isSubscribed = true;
 
 /*
     4. A variável student abaixo é de que tipo de dados? Um object
@@ -42,13 +42,13 @@ let isSubscribed = true;
     <name> tem <age> anos e pesa <weight>kg.
 */
 
-let student = {
+// let student = {
 
-    name: "Laura",
-    age: 13,
-    stars: 4.3, 
-    isSubscribed: true, 
-    weight: 4.8
-}
+//     name: "Laura",
+//     age: 13,
+//     stars: 4.3, 
+//     isSubscribed: true, 
+//     weight: 4.8
+// }
 
-console.log(`${student.name} tem ${student.age} anos e pesa ${student.weight}kg.`);
+// console.log(`${student.name} tem ${student.age} anos e pesa ${student.weight}kg.`);

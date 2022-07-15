@@ -1,8 +1,5 @@
 // Operadores de atribuição (Assingment)
-let x;
-
-
-
+// let x;
 
 // Assingment
 // x = 1;
