@@ -78,4 +78,4 @@ console.log(phrase.includes(amo));
  */
 
 // let numer = 1  
-// console.log(false ? 'alo' : 'nada');
+// console.log(false ? 'alo' : 'nada'); 
